@@ -45,11 +45,11 @@ export default {
       svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" fill="#4abfff"><path d="M304.2 501.5L158.4 320.3 298.2 185c2.6-2.7 1.7-10.5-5.3-10.5h-69.2c-3.5 0-7 1.8-10.5 5.3L80.9 313.5V7.5q0-7.5-7.5-7.5H21.5Q14 0 14 7.5v497q0 7.5 7.5 7.5h51.9q7.5 0 7.5-7.5v-109l30.8-29.3 110.5 140.6c3 3.5 6.5 5.3 10.5 5.3h66.9q5.25 0 6-3z"/></svg>',
     },
     {
-      link: "https://facebook.com/nichadoicharoen",
+      link: "https://www.facebook.com/share/1K1HcjmJXm/?mibextid=LQQJ4d",
       svg: "<img src='https://static.vecteezy.com/system/resources/previews/020/964/386/original/facebook-circle-icon-for-web-design-free-png.png' alt='Facebook' />,"
     },
     {
-      "link": "https://facebook.com/nichadoicharoen",
+      "link": "https://line.me/ti/p/7jzFT-Ppjk",
       "svg": "<img src='https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/line-1024.png' alt='Line' />"
     }
   ],
